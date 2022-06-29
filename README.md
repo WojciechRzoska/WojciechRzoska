@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WojciechRzoska
-- 👀 I’m interested in frontend
+- 👀 I'm interested in front end technologies
 - 🌱 I’m currently learning JS
 - 📫 How to reach me 
 - wojciechrzoska@gmail.com
